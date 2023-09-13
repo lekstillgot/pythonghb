@@ -1,6 +1,6 @@
 import pymysql
 from module import connectmysql as con
-# ฟังก์ชั่น
+# ฟังก์ชั่น aaa
 
 
 def createtable():
